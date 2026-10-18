@@ -8,7 +8,7 @@ export default class HelloWorld extends LightningElement {
                name = 'Akshay';
                window.alert('Name is => '+name);
         }
-       
+       Console.log('Hello');
        
     }
 }
